@@ -1,0 +1,7 @@
+@import "tailwindcss";
+.form{
+    @apply w-full h-15 p-3.5 border border-[#9eb422] rounded-sm outline-0 my-1 text-[#394205]; 
+}
+#nav{
+    @apply hover:bg-[#59660f] rounded-3xl px-3.5;
+}
